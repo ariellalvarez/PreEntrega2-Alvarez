@@ -77,17 +77,18 @@ footer{background-color: rgb(82, 88, 95);
 .listaDentroSection{padding: 10px 40px;}
 
 
-.acomodarEntrenamientos{position: relative;
-    left:450px;
-    list-style: none;
-    padding: 10px;
-    font-family: 'Open Sans', sans-serif;
-    font-weight: 200 ;}
+
 
 .acomodarTextoLogoProjects{position: relative;
     bottom:150px;
     left:25%;}
 
+/*.acomodarEntrenamientos{position: relative;
+    left:450px;
+    list-style: none;
+    padding: 10px;
+    font-family: 'Open Sans', sans-serif;
+    font-weight: 200 ;}*/
 
     /*.acomodarTextoLogoNube{position: relative;
 bottom:150px;
