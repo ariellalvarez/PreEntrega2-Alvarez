@@ -20,10 +20,16 @@ header{
 
 }
 
-.header__navbar--links{
-    display: flex;
-    flex-direction: row;
-    justify-content: center;
+.footer__map{
+    width: 300px;
+    height: 300px;
+}
+
+.footer__links{
+    font-family: 'Merriweather', serif;
+    font-weight: 700;
+    list-style: none;
+    
 }
 
 /*nav ul li{
@@ -90,16 +96,16 @@ left:25%;}
     bottom:150px;
     left:25%;}
 
-.listaNoneBullet{
+/*.listaNoneBullet{
     position: relative;
     top: 200px;
     list-style: none;
-    text-align: center;}
+    text-align: center;}*/
     
 
-.mapaBorde{position: relative;
+/*.mapaBorde{position: relative;
     left: 75%;
-    width: 25%;}
+    width: 25%;}*/
 
 .foto{position: relative;
     bottom:300px;
