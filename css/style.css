@@ -66,15 +66,21 @@ footer{background-color: rgb(82, 88, 95);
     border: solid 2px goldenrod;
     padding: 20px;}
 
+.cloud__main--padding{
+    padding: 20px;
+
+}
+
+
 .listaDentroSection{padding: 10px 40px;}
 
-.acomodarTextoLogoNube{position: relative;
+/*.acomodarTextoLogoNube{position: relative;
 bottom:150px;
-left:25%;}
+left:25%;}*/
 
-.acomodarTextoLogoEmpresa{position: relative;
+/*.acomodarTextoLogoEmpresa{position: relative;
     bottom:200px;
-    left:25%;}
+    left:25%;}*/
 
 .acomodarEntrenamientos{position: relative;
     left:450px;
