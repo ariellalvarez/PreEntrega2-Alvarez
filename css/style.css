@@ -1,0 +1,146 @@
+
+/*font-family: 'Merriweather', serif;
+font-family: 'Open Sans', sans-serif;*/
+
+*{padding: 0;
+margin: 0;
+/*font-family: 'Open Sans', sans-serif;*/}
+
+
+
+header{
+    font-family: 'Merriweather', serif;
+    font-weight: 700;
+    background-color: rgb(82, 88, 95);}
+
+
+nav ul li{
+            display: inline-block ;
+            background-color: grey;
+            position: relative;
+            left: 25%;
+            bottom: 30px;
+            /*border: 2px orange;
+            padding: 10px;
+            margin: 5px;*/
+        }
+
+h1{
+            color: goldenrod;
+            border: solid 2px goldenrod;
+            font-family: 'Open Sans', sans-serif;
+            font-weight: 700;
+            text-align: left;
+            padding: 10px;
+            background-color: rgb(96, 104, 112);}
+
+h2{
+            color: goldenrod;
+            font-family: 'Open Sans', sans-serif;
+            font-weight: 400;
+            text-align: left;
+            padding: 10px 0px;}
+
+main{background-color:rgb(133, 138, 143);
+    font-family: 'Open Sans', sans-serif; }
+
+
+    
+
+footer{background-color: rgb(82, 88, 95);
+    font-family: 'Merriweather', serif;
+    font-weight: 700;
+    padding: 10px;
+    }
+
+.sectionDebajoH1{
+    border: solid 2px goldenrod;
+    padding: 20px;}
+
+.listaDentroSection{padding: 10px 40px;}
+
+.acomodarTextoLogoNube{position: relative;
+bottom:150px;
+left:25%;}
+
+.acomodarTextoLogoEmpresa{position: relative;
+    bottom:200px;
+    left:25%;}
+
+.acomodarEntrenamientos{position: relative;
+    left:450px;
+    list-style: none;
+    padding: 10px;
+    font-family: 'Open Sans', sans-serif;
+    font-weight: 200 ;}
+
+.acomodarTextoLogoProjects{position: relative;
+    bottom:150px;
+    left:25%;}
+
+.listaNoneBullet{
+    position: relative;
+    top: 200px;
+    list-style: none;
+    text-align: center;}
+    
+
+.mapaBorde{position: relative;
+    left: 75%;
+    width: 25%;}
+
+.foto{position: relative;
+    bottom:300px;
+    left:75%;}
+
+/*
+h2{color: blue}
+
+.iconoBorde{
+    border: 2px solid blue;
+    padding: 10px;
+    margin: 5px;
+    position: relative;
+    top: 50px;
+    left: 50px;}
+
+/*.botonNav{
+    background-color: grey;
+    border: 2px orange;
+    padding: 5px;
+}*/
+
+/*nav li{
+    display: inline-block ;
+    background-color: grey;
+    border: 2px orange;
+    padding: 10px;
+    margin: 5px;
+}
+
+/*.mapaBorde{
+    border: 2px solid blue;
+    padding: 10px;
+    margin: 5px;
+    position: absolute;
+    top: 0%;
+    left: 25%;
+}*/
+
+/*.padre-flex1{
+    display: flex;
+}
+
+.img-flex1{
+    
+    width: 150px;
+    height: 50px;
+
+    margin: 10px 0;
+
+    display: flex;
+    flex-direction: row;
+    gap: 30px;
+    justify-content: space-between;
+    align-items: center;
+}
