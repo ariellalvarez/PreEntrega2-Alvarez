@@ -32,7 +32,9 @@ header{
     
 }
 
-
+.ul__none{
+    list-style: none;
+}
 
 h1{
             color: goldenrod;
@@ -74,13 +76,6 @@ footer{background-color: rgb(82, 88, 95);
 
 .listaDentroSection{padding: 10px 40px;}
 
-/*.acomodarTextoLogoNube{position: relative;
-bottom:150px;
-left:25%;}*/
-
-/*.acomodarTextoLogoEmpresa{position: relative;
-    bottom:200px;
-    left:25%;}*/
 
 .acomodarEntrenamientos{position: relative;
     left:450px;
@@ -92,6 +87,16 @@ left:25%;}*/
 .acomodarTextoLogoProjects{position: relative;
     bottom:150px;
     left:25%;}
+
+
+    /*.acomodarTextoLogoNube{position: relative;
+bottom:150px;
+left:25%;}*/
+
+/*.acomodarTextoLogoEmpresa{position: relative;
+    bottom:200px;
+    left:25%;}*/
+
 
 /*.listaNoneBullet{
     position: relative;
